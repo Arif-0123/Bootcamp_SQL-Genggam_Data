@@ -1,3 +1,3 @@
-# SQL 🖥️
-Repository ini menyimpan segala project SQL kedepannya.
+# Genggam Data Master SQL for Data Analyst 🖥️
+Repository ini menyimpan segala project latihan dan tugas.
 
